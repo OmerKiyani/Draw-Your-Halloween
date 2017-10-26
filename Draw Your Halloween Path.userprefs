@@ -1,0 +1,35 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\LineCreator.cs">
+    <Files>
+      <File FileName="Assets\Script\MenuManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\LevelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GameCompleteScript.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\BadRoadsIOS\Assets\Scripts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Level04GameComplete.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Level05GameComplete.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Level06GameCompleteRed.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Level07GameComplete.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Level08GameComplete.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Level09GameCompleteRed.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Level10GameComplete.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Level11GameCompleteYellow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Level12GameCompleteBlue.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Level13GameCompleteRed.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Level14GameCompleteRed.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Level15GameCompleteBlue.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Level16GameCompleteRed.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Level17GameCompleteYellow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Level18GameCompleteRed.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Level19GameCompleteRed.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GameManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\LineCreator.cs" Line="27" Column="4" />
+      <File FileName="Assets\Line.cs" Line="16" Column="4" />
+      <File FileName="Assets\ButonScropt.cs" Line="8" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
